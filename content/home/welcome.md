@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: 洪榛团队
 headless: true
-weight: 30
+weight: 10
 title: 洪榛团队
 subtitle: 洪榛团队
 design:
