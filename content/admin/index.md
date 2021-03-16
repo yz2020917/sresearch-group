@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: 团队介绍
+type: wowchemycms
 outputs:
 - wowchemycms_config
 - HTML
