@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: 更新主页
+widget_id: ？
 headless: true
 weight: 30
 title: null
@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: /static/media/page_1.jpg
+    image: /static/media/coders.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
