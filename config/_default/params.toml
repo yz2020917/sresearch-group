@@ -93,7 +93,7 @@ address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.2331", longitude = "120.0446"}
+coordinates = {latitude = "30.2335", longitude = "120.0444"}
 
 # Directions for visitors to locate you.
 directions = "信息工程学院c214/216"
