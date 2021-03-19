@@ -3,7 +3,7 @@ title: 洪榛
 role: Professor and ..
 avatar_filename: tu1.jpg
 bio: 模板1
- career :
+career :
   - 模板3
 social:
   - icon: envelope
