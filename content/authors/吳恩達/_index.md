@@ -30,7 +30,6 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Researchers
   - Visitors
 ---
 
