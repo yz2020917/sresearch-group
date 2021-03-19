@@ -22,7 +22,6 @@ organizations:
   - name: 模板 University
     url: ""
 education:
-  - 你好
   courses:
     - course: 模板
       institution: 模板
