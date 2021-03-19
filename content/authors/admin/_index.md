@@ -32,7 +32,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-   - 你好
+  - 你好
 email: ""
 superuser: true
 user_groups:
