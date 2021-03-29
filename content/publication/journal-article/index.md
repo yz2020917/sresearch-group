@@ -4,7 +4,7 @@ title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
 publication_types:
   - "2"
 authors:
-  - 洪榛
+  - admin
   - 杨超峰
 publication_short: "IEEE Transactions on Industrial Electronics    "
 abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
