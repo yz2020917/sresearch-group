@@ -1,4 +1,12 @@
 ---
+title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
+  Industrial Cyber-physical Systems"
+publication_types:
+  - "2"
+authors:
+  - 洪榛
+  - 杨超峰
+publication_short: ""
 abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
   accurately remote control in industrial application fields using cyberspace
   technologies. However, it is easily suffered from internal vulnerabilities and
@@ -15,37 +23,29 @@ abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
   data. Finally, a small water-level control testbed was built to simulate the
   real-scenario of the industrial water treatment process. The experimental
   results verify the effectiveness of the proposed attack detection approach.
+draft: false
+featured: false
+tags: []
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - 洪榛
-  - 杨超峰
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 author_notes: []
+doi: ""
 publication: "@ARTICLE{9222560,  author={Z. {Hong} and C. {Yang} and L.
   {Yu}},  journal={IEEE Transactions on Industrial
   Electronics},   title={R-print: A System Residuals-based Fingerprinting for
   Attack Detection in Industrial Cyber-physical
   Systems},   year={2020},  volume={},  number={},  pages={1-1},  doi={10.1109/\
   TIE.2020.3029488}}"
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
-  Industrial Cyber-physical Systems"
-doi: ""
-featured: false
-tags:
-  - Source Themes
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
