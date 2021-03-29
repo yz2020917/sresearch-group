@@ -41,7 +41,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2021-03-29T11:55:47.073Z
+date: 2021-10-10T11:55:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
