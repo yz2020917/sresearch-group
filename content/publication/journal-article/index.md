@@ -23,11 +23,16 @@ authors:
   - 洪榛
   - 杨超峰
 author_notes: []
-publication: ""
+publication: "@ARTICLE{9222560,  author={Z. {Hong} and C. {Yang} and L.
+  {Yu}},  journal={IEEE Transactions on Industrial
+  Electronics},   title={R-print: A System Residuals-based Fingerprinting for
+  Attack Detection in Industrial Cyber-physical
+  Systems},   year={2020},  volume={},  number={},  pages={1-1},  doi={10.1109/\
+  TIE.2020.3029488}}"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: IEEE Transactions on Industrial Electronics ( Early Access )
+publication_short: ""
 url_source: ""
 url_video: ""
 title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
@@ -41,7 +46,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2021-10-10T11:55:00.000Z
+date: 2020-10-10T11:55:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
