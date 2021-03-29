@@ -24,20 +24,20 @@ organizations:
 education:
   courses:
     - course: 浙江工业大学网络空间安全研究院
-      institution: 任副院长
-      year: 2020
+      institution: 任副院长 2020-
+      year: ""
     - course: Georgia Institute of Technology
-      institution: Research Scholar ，Electrical & ComputerEngineering
-      year: 2016
+      institution: Research Scholar ，Electrical & ComputerEngineering 2016-2018
+      year: ""
     - course: 浙江工业大学
-      institution: 控制理论与工程 硕博连读
-      year: 2006
+      institution: 控制理论与工程 硕博连读 2006-2012
+      year: ""
     - course: 澳洲塔斯马尼亚大学
-      institution: Computing 本科
-      year: 2003
+      institution: Computing 本科 2003-2006
+      year: ""
     - course: 浙江工业大学
-      institution: 计算机科学与技术 本科
-      year: 2002
+      institution: 计算机科学与技术 本科 2002-2006
+      year: ""
 email: ""
 superuser: true
 user_groups:
