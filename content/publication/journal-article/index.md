@@ -39,7 +39,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: "     --IEEE Transactions on Industrial Electronics    "
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
