@@ -4,7 +4,12 @@ role: 副院长/副教授
 avatar_filename: tu1.jpg
 bio: ""
 interests:
-  - 工业互联网/物联网，系统安全，数据驱动安全，数据分析，人工智能，软件开发应用
+  - 工业互联网/物联网
+  - 系统安全
+  - 数据驱动安全
+  - 数据分析
+  - 人工智能
+  - 软件开发应用
 social:
   - icon: envelope
     icon_pack: fas
