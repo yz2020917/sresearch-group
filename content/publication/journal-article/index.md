@@ -6,7 +6,7 @@ publication_types:
 authors:
   - 洪榛
   - 杨超峰
-publication_short: ""
+publication_short: "IEEE Transactions on Industrial Electronics    "
 abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
   accurately remote control in industrial application fields using cyberspace
   technologies. However, it is easily suffered from internal vulnerabilities and
@@ -25,7 +25,8 @@ abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
   results verify the effectiveness of the proposed attack detection approach.
 draft: false
 featured: false
-tags: []
+tags:
+  - 期刊
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
@@ -39,11 +40,11 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "     --IEEE Transactions on Industrial Electronics    "
+publication: "IEEE Transactions on Industrial Electronics    "
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
