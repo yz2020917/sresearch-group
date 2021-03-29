@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-title: 吳恩達
+title: 0_模板
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -29,8 +29,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-user_groups:
-  - Test
+user_groups: []
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
