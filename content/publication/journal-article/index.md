@@ -28,7 +28,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/document/9222560/author
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
