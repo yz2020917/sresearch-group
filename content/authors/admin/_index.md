@@ -34,7 +34,7 @@ education:
       year: ""
     - course: 澳洲塔斯马尼亚大学
       institution: Computing 本科
-      year: 1
+      year: ""
     - course: 浙江工业大学
       institution: 计算机科学与技术 本科
       year: ""
