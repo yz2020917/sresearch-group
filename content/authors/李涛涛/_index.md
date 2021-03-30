@@ -14,9 +14,18 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: blank
+  - icon: twitter
+    icon_pack: fab
+    link: blank
+  - icon: google-scholar
+    icon_pack: ai
+    link: blank
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: blank
 education:
   courses:
     - course: PhD in Artificial Intelligence
