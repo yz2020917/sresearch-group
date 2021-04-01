@@ -1,15 +1,14 @@
 ---
-title: 洪榛
-role: 副院长/副教授
+title: 温震宇
+role: 特聘研究员
 avatar_filename: tu1.jpg
 bio: ""
 interests:
-  - 工业互联网/物联网
-  - 系统安全
-  - 数据驱动安全
-  - 数据分析
-  - 人工智能
-  - 软件开发应用
+  - 智能物联网
+  - 大数据云计算
+  - 机器学习
+  - 分布式系统
+  - 计算机网络
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,29 +27,31 @@ organizations:
     url: ""
 education:
   courses:
-    - course: 浙江工业大学网络空间安全研究院
-      institution: 任副院长 2020-
-      year: ""
-    - course: Georgia Institute of Technology
-      institution: Research Scholar ，Electrical & ComputerEngineering 2016-2018
-      year: ""
     - course: 浙江工业大学
-      institution: 控制理论与工程 硕博连读 2006-2012
+      institution: 特聘研究员 2020-
       year: ""
-    - course: 澳洲塔斯马尼亚大学
-      institution: Computing 本科 2003-2006
+    - course: Newcastle University
+      institution: Visiting lecturer 2021-
       year: ""
-    - course: 浙江工业大学
-      institution: 计算机科学与技术 本科 2002-2006
+    - course: Newcastle University
+      institution: Research fellow 2018-2020
       year: ""
+    - course: "The University of Edinburgh "
+      institution: Research fellow 2015-2018
+      year: ""
+    - course: "Newcastle University "
+      institution: PhD 2012-2016
+      year: ""
+    - course: Newcastle University
+      institution: MSc 2010-2011
+    - course: "浙江工商大学 "
+      institution: BA 2005-2009
 email: ""
 superuser: true
 user_groups:
   - Researchers
 highlight_name: false
 ---
-IEEE/ACM会员，计算机学会会员，自动化学会高级会员，中国自动化学会青年工作委员会委员，区块链专委会委员，CCF YOCSEF杭州AC，中国电子学会物联网青年专技组通信委员，入选浙江省首批青年科学家培养计划”、浙江省151人才第三层次、浙江省重中之重学科中青年骨干人才培养专项，曾赴美国佐治亚州立大学访学(2011)，2013.7\~2016.6受省委派驻航天长峰智慧城市专有软件研究院工作，并于2016.9\~2018.5在美国佐治亚理工学院客座研究。
+IEEE/ACM会员，于 2020 年获得 IEEE TCSC Award for Excellence in Scalable Computing(Early Career Researchers), 入选浙江省海外高层次人才引进项目中的 “青年人才项目”。曾在英国著名高校爱丁堡大学、纽卡斯尔大学从事博士后研究五年。博后期间，主持和参与国家自然科学基金1项，英国自然科学基金3项，欧盟自然科学基金1项。
 
-主持国家自然科学基金2项，浙江省自然科学基金2项，浙江省重大科技专项重点工业项目子课题1项(460/1220万），浙江省公益技术项目1项，浙江省教育厅一般科研项目1项;作为主要参与人参与国家自然科学基金5项，浙江省自然科学基金重点基金1项，一般项目2项，浙江省制造业信息化工程重大科技攻关项目1项，浙江省科技攻关重点项目1项，浙江省教育厅重点项目1项，浙江省重点创新团队项目1项。
-
-至今，已在国内外重要期刊及国际会议上发表论文近40篇，申请发明专利近100余项(己授权40余项)，授权实用新型专利35项，软件著作权60余项。成功指导学生团队获得2018小平创新团队，全国挑战杯课外制作大赛一等奖1项，二等奖1项。
+至今，已在国内外重要期刊及会议上发表论文近36篇，含中科院 JCR 分区 1 区 5 篇、中科院 JCR 分区 2 区 7篇、CCF-A 类期刊会议文章 4篇、CCF-B 类期刊会议文章 3 篇。论文“Fog Orchestration for Internet of Things Services”从 2017 发表起至今，连续四年被物联网领域顶级杂 志《IEEE Internet Computing》评为最受欢迎的 50 篇文章之一。
