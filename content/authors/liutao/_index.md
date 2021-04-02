@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 刘涛()
+  - 刘涛2
 title: 刘涛
 role: Professor of Artificial Intelligence
 bio: ""
