@@ -18,8 +18,8 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
+  - Visiting scholar
   - Students
-  - Administration
   - Test
   - Alumni
 design:
