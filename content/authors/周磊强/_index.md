@@ -34,6 +34,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 本科阶段多次获得校级奖学金、企业奖学金，目前正在研究面向MEMS源传感器的攻击与智能检测。
