@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 饶森斌
-title: 绕森斌
+title: 饶森斌
 role: 研究生
 bio: ""
 interests:
