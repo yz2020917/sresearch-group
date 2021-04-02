@@ -1,18 +1,18 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江理工大学
     url: ""
 superuser: false
 authors:
   - 陈焕
 title: 陈焕
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: 研究生
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 物联网安全
+  - 机器学习
+  - 硬件安全
+  - 网络安全
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,19 +28,15 @@ social:
     link: blank
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江理工大学
+      institution: MESc 2018-2021
+      year: ""
+    - course: 浙江理工大学
+      institution: BE 2016-2018
+      year: ""
+    - course: 衢州职业技术学院
+      institution: 2013-2016
+      year: ""
 email: ""
 user_groups: []
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
