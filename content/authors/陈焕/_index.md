@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
-title: 0_模板
+  - 陈焕
+title: 陈焕
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
