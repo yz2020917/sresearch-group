@@ -33,7 +33,7 @@ education:
       institution: 控制科学与工程 2019-
       year: ""
     - course: 温州大学
-      institution: 电气自动化 2015-2019
+      institution: 电气工程及其自动化 2015-2019
       year: ""
 email: ""
 user_groups:
