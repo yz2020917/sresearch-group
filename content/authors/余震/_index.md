@@ -1,17 +1,17 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江工业大学
     url: ""
 superuser: false
 authors:
   - 余震
 title: 余震
-role: Professor of Artificial Intelligence
+role: 研究生
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 机器学习
+  - 物联网安全
+  - 网络安全
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +27,16 @@ social:
     link: blank
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江工业大学
+      institution: 控制工程 2020-
+      year: ""
+    - course: 安徽农业大学
+      institution: 电子信息工程 2016-2020
+      year: ""
 email: ""
-user_groups: []
+user_groups:
+  - Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+2018年获得第九届蓝桥杯编程大赛JAVA B组国家级竞赛三等奖。2018获得互联网+创新创业大赛上作为成员获省级铜奖。
+2019年获得第十届蓝桥杯编程设计大赛c/c++B组省级二等奖。
+本科期间每年获得专业奖学金。
