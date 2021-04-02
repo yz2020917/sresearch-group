@@ -38,5 +38,6 @@ education:
       institution: 2013-2016
       year: ""
 email: ""
-user_groups: []
+user_groups:
+  - Students
 ---
