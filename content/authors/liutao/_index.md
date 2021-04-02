@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 刘涛2
-title: 刘涛
+  - 刘涛
+title: liutao
 role: Professor of Artificial Intelligence
 bio: ""
 interests:
