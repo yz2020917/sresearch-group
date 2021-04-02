@@ -1,17 +1,18 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江工业大学
     url: ""
 superuser: false
 authors:
   - 刘涛
 title: 刘涛
-role: Professor of Artificial Intelligence
+role: 研究生
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 机器学习
+  - 数据分析
+  - 智能家居
+  - 嵌入式系统
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,20 +28,14 @@ social:
     link: blank
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江工业大学
+      institution: 控制工程 2020-
+      year: ""
+    - course: 合肥学院
+      institution: 自动化 2015-2020
+      year: ""
 email: ""
 user_groups:
   - Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+本科阶段多次参加各类竞赛，获得第十三界“西门子杯”中国智能制造挑战赛全国初赛华东一赛区二等奖、安徽省互联网 + “大学生创新创业大赛”省铜奖、挑战杯三等奖及校内奖学金。目前，正在研究面向MEMS源传感器的攻击与智能检测。
