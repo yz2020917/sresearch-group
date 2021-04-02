@@ -22,7 +22,7 @@ social:
     link: blank
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: weixin
     link: blank
   - display:
