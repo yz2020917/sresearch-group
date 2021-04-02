@@ -35,6 +35,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 本科就读于浙江工业大学之江学院（2015-2019），本科期间多次获得各类奖学金。
