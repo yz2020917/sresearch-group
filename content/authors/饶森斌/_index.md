@@ -1,17 +1,15 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江工业大学
     url: ""
 superuser: false
 authors:
   - 饶森斌
-title: 绕森斌
-role: Professor of Artificial Intelligence
+title: 饶森斌
+role: 研究生
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 工业信息物理系统安全
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +25,13 @@ social:
     link: blank
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江工业大学
+      institution: 控制工程 2020-
+      year: ""
+    - course: 齐鲁工业大学
+      institution: 本科   2016-2020
+      year: ""
 email: ""
-user_groups: []
+user_groups:
+  - Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
