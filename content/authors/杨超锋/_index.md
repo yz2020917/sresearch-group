@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 杨超峰
+  - 杨超锋
 title: 杨超锋
 role: 研究生
 bio: ""
