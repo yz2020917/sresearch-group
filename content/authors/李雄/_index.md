@@ -10,7 +10,7 @@ role: 研究生
 bio: ""
 interests:
   - 深度学习
-  - 无人驾驶
+  - 嵌入式系统
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,3 +36,4 @@ email: ""
 user_groups:
   - Students
 ---
+目前主要进行  as  s s
