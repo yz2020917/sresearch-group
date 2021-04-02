@@ -4,8 +4,8 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
-title: 0_模板
+  - 王森森
+title: 王森森
 role: Professor of Artificial Intelligence
 bio: ""
 interests:
