@@ -36,6 +36,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 本科阶段参加华北五省（市、自治区）大学生机器人大赛、中国机器人大赛获得一等奖两项。
