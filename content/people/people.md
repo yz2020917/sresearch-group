@@ -18,9 +18,10 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Visiting scholar
+  - Research fellow
   - Students
-  - Test
+  - Master student 
+  - Studentsss
   - Alumni
 design:
   show_interests: false
