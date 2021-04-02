@@ -35,5 +35,5 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
