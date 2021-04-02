@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 刘涛
-title: 刘涛()
+title: 刘涛
 role: Professor of Artificial Intelligence
 bio: ""
 interests:
