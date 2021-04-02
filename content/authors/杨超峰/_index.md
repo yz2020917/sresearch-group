@@ -13,23 +13,27 @@ interests:
   - 数据驱动安全
 social:
   - icon: github
-    icon_pack: fab
+    icon_pack: fas
     link: blank
+    label: nihao
   - display:
       header: false
     icon_pack: fab
     icon: qq
     link: blank
+    label: hello
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: far
     icon: weixin
     link: blank
+    label: what up
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: weibo
     link: blank
+    label: hah haahha
 education:
   courses:
     - course: PhD in Artificial Intelligence
