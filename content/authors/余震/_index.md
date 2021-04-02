@@ -35,7 +35,7 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 2018年获得第九届蓝桥杯编程大赛JAVA B组国家级竞赛三等奖。2018获得互联网+创新创业大赛上作为成员获省级铜奖。
 2019年获得第十届蓝桥杯编程设计大赛c/c++B组省级二等奖。
