@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 杨超峰
-title: 杨超峰
+title: 杨超锋
 role: 研究生
 bio: ""
 interests:
