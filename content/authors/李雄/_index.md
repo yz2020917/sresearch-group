@@ -34,6 +34,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 目前正在进行一些基于数据处理的无人驾驶方面研究。
