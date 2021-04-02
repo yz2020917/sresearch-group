@@ -43,6 +43,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Students
+  - Master student
 ---
 在读期间发表SCI1区论文一篇，国际级会议论文一篇，发表专利一项。同时作为参与人参与了国家自然科学基金、浙江省自然科学基金等多个科研项目。
