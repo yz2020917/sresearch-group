@@ -13,45 +13,36 @@ interests:
   - 数据驱动安全
 social:
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: blank
-    label: nihao
+    label: ""
     display:
-      header: true
+      header: false
   - display:
-      header: true
+      header: false
     icon_pack: fab
     icon: qq
     link: blank
-    label: hahaha
+    label: ""
   - display:
-      header: true
-    icon_pack: far
+      header: false
+    icon_pack: fab
     icon: weixin
     link: blank
-    label: qqqq
+    label: ""
   - display:
-      header: true
-    icon_pack: ai
+      header: false
+    icon_pack: fab
     icon: weibo
     link: blank
-    label: xxxxxxxx
+    label: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江工业大学
+      institution: 控制科学与工程 2018-2021
+      year: ""
 email: ""
 user_groups:
   - Students
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+期间发表SCI1区论文一篇，国际级会议论文一篇，发表专利一项。同时作为参与人参与了国家自然科学基金、浙江省自然科学基金等多个科研项目。
