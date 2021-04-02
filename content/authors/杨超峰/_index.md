@@ -1,22 +1,35 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江工业大学
     url: ""
 superuser: false
 authors:
   - 杨超峰
 title: 杨超峰
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: 研究生
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 工业网络安全
+  - 数据驱动安全
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: blank
+  - display:
+      header: false
+    icon_pack: fab
+    icon: qq
+    link: blank
+  - display:
+      header: false
+    icon_pack: fas
+    icon: weixin
+    link: blank
+  - display:
+      header: false
+    icon_pack: fab
+    icon: weibo
+    link: blank
 education:
   courses:
     - course: PhD in Artificial Intelligence
