@@ -36,4 +36,4 @@ email: ""
 user_groups:
   - Students
 ---
-目前主要进行  as  s s
+目前正在进行一些基于数据处理的无人驾驶方面研究。
