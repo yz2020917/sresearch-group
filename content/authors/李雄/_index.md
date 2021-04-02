@@ -31,7 +31,7 @@ education:
       year: ""
     - course: 江西理工大学
       institution: 自动化 2016-2020
-      year: -4
+      year: ""
 email: ""
 user_groups:
   - Students
