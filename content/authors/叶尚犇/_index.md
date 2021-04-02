@@ -34,6 +34,7 @@ education:
       institution: 本科 2015-2019
       year: ""
 email: ""
-user_groups: []
+user_groups:
+  - Students
 ---
 本科就读于浙江工业大学之江学院（2015-2019），本科期间多次获得各类奖学金。
