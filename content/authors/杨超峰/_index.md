@@ -16,24 +16,26 @@ social:
     icon_pack: fas
     link: blank
     label: nihao
+    display:
+      header: true
   - display:
-      header: false
+      header: true
     icon_pack: fab
     icon: qq
     link: blank
-    label: hello
+    label: hahaha
   - display:
-      header: false
+      header: true
     icon_pack: far
     icon: weixin
     link: blank
-    label: what up
+    label: qqqq
   - display:
-      header: false
+      header: true
     icon_pack: ai
     icon: weibo
     link: blank
-    label: hah haahha
+    label: xxxxxxxx
 education:
   courses:
     - course: PhD in Artificial Intelligence
