@@ -1,17 +1,18 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 英国纽卡斯尔大学
     url: ""
 superuser: false
 authors:
   - 段浩然
 title: 段浩然
-role: Professor of Artificial Intelligence
+role: 博士生
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
+  - Ubiquitous Computing
+  - loT
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,25 +22,14 @@ social:
     link: blank
   - icon: google-scholar
     icon_pack: ai
-    link: blank
+    link: https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: blank
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
-user_groups: []
+user_groups:
+  - Research Fellow
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+英国纽卡斯尔大学 OpenLab(https://openlab.ncl.ac.uk/)博士在读。
