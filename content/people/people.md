@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Research fellow
+  - Research Fellow
   - Students
   - Master student 
   - Studentsss
