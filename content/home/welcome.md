@@ -9,7 +9,7 @@ weight: 10
 title: ISPUN
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
 hero_media: page_2.jpg
 ---
 Intelligence，security, and privacy for networked and ubiquitous systems
