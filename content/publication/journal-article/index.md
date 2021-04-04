@@ -6,6 +6,7 @@ publication_types:
 authors:
   - admin
   - 杨超锋
+  - 俞立
 publication_short: "IEEE Transactions on Industrial Electronics    "
 abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
   accurately remote control in industrial application fields using cyberspace
