@@ -30,7 +30,7 @@ tags:
 slides: null
 url_pdf: https://ieeexplore.ieee.org/document/9222560/author
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
