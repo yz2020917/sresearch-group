@@ -2,7 +2,7 @@
 title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
   Industrial Cyber-physical Systems"
 publication_types:
-  - "2"
+  - "4"
 authors:
   - admin
   - 杨超锋
