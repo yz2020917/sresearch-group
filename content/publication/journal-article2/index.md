@@ -1,34 +1,20 @@
 ---
-title: "A System Residuals-based Fingerprinting for Attack Detection in
-  Industrial Cyber-physical Systems"
+title: "网络化倒立摆系统的偏差攻击及其检测方法"
 publication_types:
   - "2"
 authors:
+  - 徐彬彬
   - admin
-  - 杨超锋
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - 赵磊
+  - 俞立
+publication_short: "上海交通大学学报"
+abstract: 为解决网络化控制系统数据完整性的攻击问题，设计了基于网络化倒立摆平台状态信息的偏差攻击，并提出了对应的检测方法.利用Ettercap工具对平台网络成功入侵，对位置数据进行了偏差攻击；结合支持向量机(SVM)方法，使用LibSVM分类器，对倒立摆系统的4种状态信息进行训练、建模和数据分类，并与K最近邻、决策树方法进行对比；在平台上验证了所提出的方法.仿真和实验结果表明，所设计的攻击方法能够改变系统的稳定状态，与常用的机器学习方法相比，SVM在偏差攻击检测的二分类问题上更加优越，能较好地区分掺杂在数据的虚假数据。
 draft: false
 featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf: http://xuebao.sjtu.edu.cn/CN/10.16183/j.cnki.jsjtu.2020.174
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
@@ -40,11 +26,11 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: "上海交通大学学报   "
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
