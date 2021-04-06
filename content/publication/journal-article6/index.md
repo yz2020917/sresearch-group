@@ -1,5 +1,5 @@
 ---
-title: "A secure routing protocol with regional partitioned clustering and Beta trust management in smart home"
+title:"A secure routing protocol with regional partitioned clustering and Beta trust management in smart home "
 publication_types:
   - "2"
 authors:
