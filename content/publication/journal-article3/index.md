@@ -1,7 +1,7 @@
 ---
 title: "An Improved LDA-Based ELM Classification for Intrusion Detection Algorithm in IoT Application"
 publication_types:
-  - "2"
+  - "4"
 authors:
   - Dehua Zheng
   - admin
