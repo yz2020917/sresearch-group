@@ -1,17 +1,17 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: 浙江理工大学
     url: ""
 superuser: false
 authors:
   - 叶蕾
 title: 叶蕾
-role: Professor of Artificial Intelligence
+role: 研究生
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 侧信道攻击
+  - 功率分析
+  - 网络安全
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,19 +27,13 @@ social:
     link: blank
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 浙江理工大学
+      institution: 2018-2021
+      year: ""
+    - course: 桂林电子科技大学
+      institution: 2014-2018
+      year: ""
 email: ""
-user_groups: []
+user_groups:
+  - Master student
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
