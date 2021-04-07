@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: blank
+    link: haoranduan28@gmail.com
   - icon: twitter
     icon_pack: fab
     link: blank
@@ -25,7 +25,7 @@ social:
     link: https://scholar.google.com/citations?user=2fIQOBsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: blank
+    link: https://github.com/haoranD
 education:
   courses: []
 email: ""
