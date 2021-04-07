@@ -5,8 +5,8 @@ organizations:
 superuser: false
 authors:
   - 段浩然
-title: 段浩然
-role: 博士生
+title: 段皓然
+role: Research Fellow
 bio: ""
 interests:
   - Deep Learning
