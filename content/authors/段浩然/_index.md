@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: haoranduan28@gmail.com
+    link: www.haoranduan28@gmail.com
   - icon: twitter
     icon_pack: fab
     link: blank
