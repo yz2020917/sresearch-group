@@ -49,7 +49,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Faculty
 highlight_name: false
 ---
 IEEE/ACM会员，于 2020 年获得 IEEE TCSC Award for Excellence in Scalable Computing(Early Career Researchers), 入选浙江省海外高层次人才引进项目中的 “青年人才项目”。曾在英国著名高校爱丁堡大学、纽卡斯尔大学从事博士后研究五年。博后期间，主持和参与国家自然科学基金1项，英国自然科学基金3项，欧盟自然科学基金1项。
