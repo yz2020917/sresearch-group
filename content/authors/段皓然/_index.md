@@ -30,6 +30,6 @@ education:
   courses: []
 email: ""
 user_groups:
-  - Research Fellow
+  - Researcher
 ---
 英国纽卡斯尔大学 OpenLab(https://openlab.ncl.ac.uk/)博士在读。
