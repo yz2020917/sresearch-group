@@ -21,7 +21,7 @@ social:
     link: blank
   - icon: github
     icon_pack: fab
-    link: blank
+    link: http://www.zhenyu.info/
 organizations:
   - name: Zhejiang University of Technology
     url: ""
