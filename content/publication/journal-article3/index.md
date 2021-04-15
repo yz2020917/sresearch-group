@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Dehua Zheng
-  - admin
+  - Zhen Hong
   - Ning Wang
   - Ping Chen
 publication_short: MDPI sensors
