@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 我们的研究方向
 
 # View.
 #   1 = List
