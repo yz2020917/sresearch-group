@@ -4,7 +4,7 @@ title: "R-print: A System Residuals-based Fingerprinting for Attack Detection in
 publication_types:
   - "2"
 authors:
-  - admin
+  - Zhen Hong
   - Chaofeng Yang
   - Li Yu
 publication_short: "IEEE Transactions on Industrial Electronics    "

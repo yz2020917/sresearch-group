@@ -1,5 +1,5 @@
 ---
-title: 洪榛 (Zhen Hong)
+title: "洪榛 "
 role: 副院长/副教授
 avatar_filename: tu1.jpg
 bio: ""
