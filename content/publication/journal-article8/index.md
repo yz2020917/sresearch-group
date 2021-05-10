@@ -1,6 +1,5 @@
 ---
-title: "A System Residuals-based Fingerprinting for Attack Detection in
-  Industrial Cyber-physical Systems"
+title: "AutoDiagn: An Automated Real-time Diagnosis Framework for Big Data Systems"
 publication_types:
   - "2"
 authors:
