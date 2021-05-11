@@ -1,5 +1,5 @@
 ---
-title: "模板"
+title: "AutoDiagn: An Automated Real-time Diagnosis Framework for Big Data Systems"
 publication_types:
   - "2"
 authors:
