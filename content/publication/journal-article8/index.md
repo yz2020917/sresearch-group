@@ -3,26 +3,31 @@ title: "AutoDiagn: An Automated Real-time Diagnosis Framework for Big Data Syste
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - U. Demirbaga
+  - Z. Wen
+  - A. Noor
+  - K. Mitra
+  - K. Alwasel
+  - S. Garg
+  - A. Zomaya
+  - R. Ranjan
+publication_short: IEEE Transactions on Computers [CCF A; Core A*]
+abstract: Big data processing systems, such as Hadoop and Spark, usually work on
+  large-scale, highly-concurrent, and multi-tenant environments that can easily
+  cause hardware and software malfunctions or failures, thereby leading to
+  performance degradation. Several systems and methods exist to detect big data
+  processing systems’ performance degradation, perform root-cause analysis, and
+  even overcome the issues causing such degradation. However, these solutions
+  focus on specific problems such as straggler and inefficient resource
+  utilization. There is a lack of a generic and extensible framework to support
+  the real-time diagnosis of big data systems. In this paper, we propose,
+  develop and validate AutoDiagn. This generic and flexible framework provides
+  holistic monitoring of a big data system while detecting performance
+  degradation and enabling root-cause analysis. We present the implementation
+  and evaluation of AutoDiagn that interacts with a Hadoop cluster deployed on a
+  public cloud and tested with real-world benchmark applications. Experimental
+  results show that AutoDiagn has a small resource footprint, high throughput
+  and low latency.
 draft: false
 featured: false
 tags:
@@ -40,9 +45,9 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: "IEEE Transactions on Computers [CCF A; Core A*] "
 projects: []
-date: 2020-10-10T11:55:00.000Z
+date: 2021-10-10T11:55:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
