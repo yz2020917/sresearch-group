@@ -1,28 +1,59 @@
 ---
-title: "模板"
+title: Efficient Graph Query Processing over Geo-Distributed Datacenters
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - Y. Yuan
+  - D. Ma
+  - Z. Wen
+  - Y. Ma
+  - G. Wang and L. Chen
+publication_short: 43rd International ACM SIGIR Conference on Research and
+  Development in Information Retrieval (SIGIR'20). [CCF A; Core A*]
+abstract: >-
+  Graph queries have emerged as one of the fundamental
+
+  techniques to support modern search services, such as PageRank web search, social networking search and knowledge
+
+  graph search. As such graphs are maintained globally and
+
+  very huge (e.g., billions of nodes), we need to efficiently
+
+  process graph queries across multiple geographically distributed datacenters, running geo-distributed graph queries.
+
+  Existing graph computing frameworks may not work well
+
+  for geographically distributed datacenters, because they
+
+  implement a Bulk Synchronous Parallel model that requires
+
+  excessive inter-datacenter transfers, thereby introducing extremely large latency for query processing. In this paper,
+
+  we propose GeoGraph–a universal framework to support
+
+  efficient geo-distributed graph query processing based on
+
+  clustering datacenters and meta-graph, while reducing the
+
+  inter-datacenter communication. Our new framework can
+
+  be applied to many types of graph algorithms without
+
+  any modification. The framework is developed on the top
+
+  of Apache Giraph. The experiments were conducted by
+
+  applying four important graph queries, i.e., shortest path,
+
+  graph keyword search, subgraph isomorphism and PageRank.
+
+  The evaluation results show that our proposed framework
+
+  can achieve up to 82% faster convergence, 42% lower WAN
+
+  bandwidth usage, and 45% less total monetary cost for the
+
+  four graph queries, with input graphs stored across ten geodistributed datacenters.
 draft: false
 featured: false
 tags:
@@ -40,7 +71,8 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: "43rd International ACM SIGIR Conference on Research and
+  Development in Information Retrieval (SIGIR'20). [CCF A; Core A*]  "
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
