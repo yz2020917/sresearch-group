@@ -1,28 +1,56 @@
 ---
-title: "模板"
+title: Running Industrial Workﬂow Applications in a Software-deﬁned Multi-Cloud
+  Environment using Green Energy Aware Scheduling Algorithm
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - Z. Wen
+  - S. Garg
+  - G. S. Aujla
+  - K. Alwasel
+  - D. Puthal
+  - S. Dustdar
+  - A. Y. Zomaya and R. Ranjan
+publication_short: IEEE Transactions on Industrial Informatics. (SCI-IF = 9.112)
+abstract: >+
+  Abstract—Industry 4.0 have automated the entire manufacturing sector
+  (including technologies and processes) by adopting Internet of Things and
+  Cloud computing. To handle the workflows from Industrial Cyber-Physical
+  systems, more and more data centers have been built across the globe to serve
+  the growing needs of computing and storage. This has led to an enormous
+  increase in energy usage by cloud data centers which is not only a financial
+  burden but also increases their carbon footprint.The private Software Defined
+  Wide Area network (SDWAN) connects a cloud provider’s data centers across the
+  planet. This gives the opportunity to develop new scheduling strategies to
+  manage cloud providers workload in a more energy-efficient manner. In this
+  context, this paper addresses the problem of
+
+  scheduling data-driven industrial workflow applications over a set
+
+  of private SDWAN connected data centers in an energy-efficient
+
+  manner while managing trade-off of a cloud provider’ revenue.
+
+  Our proposed algorithm aims to minimize the cloud provider’s
+
+  revenue and the usage of non-renewable energy by utilizing the
+
+  real-world electricity prices with the availability of green energy
+
+  on different cloud data centers, where the energy consumption
+
+  consists of the usage of running application over multiple data
+
+  centers and transferring the data among them through SDWAN.
+
+  The evaluation shows that our proposed method can increase
+
+  usage of green energy for the execution of industrial workflow
+
+  up to 3× times with a slight increase in the cost when compared
+
+  to cost-based workflow scheduling methods.
+
 draft: false
 featured: false
 tags:
@@ -40,7 +68,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: IEEE Transactions on Industrial Informatics. (SCI-IF = 9.112)
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
