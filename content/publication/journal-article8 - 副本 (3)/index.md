@@ -1,28 +1,26 @@
 ---
-title: "模板"
+title: Active Hazard Observation via Human in the Loop Social Media Analytics System
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - Z. Wen
+  - J. Phengsuwan
+  - N. B. Thekkummal
+  - R. Sun
+  - P. J. Chidananda
+  - T. Shah
+  - P. James and R. Ranjan
+publication_short: "29TH ACM International Conference on Information and
+  Knowledge Management (CIKM2020) (demo). [CCF B; Core A]  "
+abstract: We demonstrate AHOM, a system that can Actively Observe Hazards via
+  Monitoring Social Media Streams. AHOM proposes an active way to include the
+  human in the loop of hazard information ac-quisition for social media.
+  Different from state of the art, it supports bi-directional interaction
+  between social media data processing system and social media users, which
+  leads to the establishment of deeper and more accurate situational awareness
+  of hazard events. We demonstrate how AHOM utilizes Twitter streams and
+  bi-directional information exchange with social media users for enhanced
+  hazard observation.
 draft: false
 featured: false
 tags:
@@ -40,7 +38,8 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: 29TH ACM International Conference on Information and Knowledge
+  Management (CIKM2020) (demo). [CCF B; Core A]
 projects: []
 date: 2020-10-10T11:55:00.000Z
 url_slides: ""
