@@ -59,7 +59,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf: http://www.zhenyu.info/papers/Efficient%20Graph%20Query%20Processing%20over%20Geo-Distributed%20Datacenters.pdf
 image:
   caption: ""
   focal_point: ""

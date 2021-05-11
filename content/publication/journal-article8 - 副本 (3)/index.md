@@ -26,7 +26,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3340531.3417430
 image:
   caption: ""
   focal_point: ""
