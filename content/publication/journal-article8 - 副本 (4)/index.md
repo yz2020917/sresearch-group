@@ -5,7 +5,7 @@ publication_types:
 authors:
   - S. Luo
   - H. Li
-  - Z. Wen*
+  - Z. Wen
   - B. Qian
   - G. Morgan
   - A. Longo
