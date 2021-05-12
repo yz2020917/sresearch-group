@@ -6,7 +6,7 @@ publication_types:
 authors:
   - D.N. Jha
   - P. Michalk
-  - "**Z. Wen**"
+  - Z. Wen
   - P. Watson and R. Ranjan.
 publication_short: IEEE Transactions on Industrial Informatics. (SCI-IF = 9.112)
 abstract: The growth of Internet of Things (IoT) technology brings many new
