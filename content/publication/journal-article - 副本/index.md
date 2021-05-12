@@ -27,7 +27,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf:  https://www.sciencedirect.com/science/article/abs/pii/S0167739X18320065
 image:
   caption: ""
   focal_point: ""

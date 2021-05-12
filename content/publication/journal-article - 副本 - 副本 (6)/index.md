@@ -32,7 +32,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-34223-4_26
 image:
   caption: ""
   focal_point: ""
