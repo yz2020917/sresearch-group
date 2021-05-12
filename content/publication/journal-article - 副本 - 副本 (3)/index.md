@@ -1,28 +1,39 @@
 ---
-title: "模板"
+title: "ESMLB: Efﬁcient Switch Migration-based Load Balancing for
+  Multi-Controller SDN in IoT."
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - K. S. Sahoo*
+  - D. Puthal
+  - M. Tiwary
+  - M. Usman
+  - B. Sahoo
+  - Z. Wen*
+  - B. P. S. Sahoo
+  - R. Ranjan.
+publication_short: IEEE Internet of Things Journal. (SCI-IF = 9.515)
+abstract: In software-defined networks (SDNs), the deployment of multiple
+  controllers improves the reliability and scalability of the distributed
+  control plane. Recently, edge computing (EC) has become a backbone to networks
+  where computational infrastructures and services are getting closer to the end
+  user. The unique characteristics of SDN can serve as a key enabler to lower
+  the complexity barriers involved in EC, and provide better quality-of-services
+  (QoS) to users. As the demand for IoT keeps growing, gradually a huge number
+  of smart devices will be connected to EC and generate tremendous IoT traffic.
+  Due to a huge volume of control messages, the controller may not have
+  sufficient capacity to respond to them. To handle such a scenario and to
+  achieve better load balancing, dynamic switch migrating is one effective
+  approach. However, a deliberate mechanism is required to accomplish such a
+  task on the control plane, and the migration process results in high network
+  delay. Taking it into consideration, this article has introduced an efficient
+  switch migration-based load balancing (ESMLB) framework, which aims to assign
+  switches to an underutilized controller effectively. Among many alternatives
+  for selecting a target controller, a multicriteria decision-making method,
+  i.e., the technique for order preference by similarity to an ideal solution
+  (TOPSIS), has been used in our framework. This framework enables flexible
+  decision-making processes for selecting controllers having different resource
+  attributes. The emulation results indicate the efficacy of the ESMLB.
 draft: false
 featured: false
 tags:
@@ -40,7 +51,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: IEEE Internet of Things Journal. (SCI-IF = 9.515)
 projects: []
 date: 2019-10-10T11:55:00.000Z
 url_slides: ""
