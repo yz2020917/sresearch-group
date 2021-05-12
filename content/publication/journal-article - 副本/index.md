@@ -1,6 +1,6 @@
 ---
 title: "GoSharing: An Incentive Framework for Cooperative Contents Sharing in
-  Mobile Edge Networks  ## 作者"
+  Mobile Edge Networks "
 publication_types:
   - "2"
 authors:
