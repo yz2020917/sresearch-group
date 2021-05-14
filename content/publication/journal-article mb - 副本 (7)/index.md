@@ -29,7 +29,7 @@ featured: false
 tags:
   - 期刊
 slides: null
-url_pdf: https://ieeexplore.ieee.org/document/9222560/author
+url_pdf: https://ieeexplore.ieee.org/document/8368388
 image:
   caption: ""
   focal_point: ""
