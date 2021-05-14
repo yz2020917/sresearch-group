@@ -1,28 +1,29 @@
 ---
-title: "模板"
+title: "SmartOrch: Flexible, Adaptive Orchestration for Human-Centric Task Workflows."
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - M. Rovatsos
+  - D. Diochnos
+  - Z. Wen
+  - S. Ceppi
+  - P. Andreadis.
+publication_short: The 32nd ACM Symposium on Applied Computing (SAC’17). [CCF C; Core B]
+abstract: >-
+  Web-based collaborative systems, where most computation is performed by human
+  collectives, have distinctly different requirements from traditional workflow
+  orchestration systems, as humans have to be mobilised to perform computations
+  and the system has to adapt to their collective behaviour at runtime. In this
+  paper, we present a social orchestration system called SmartOrch, which has
+  been designed specifically for collective adaptive systems in which human
+  participation is at the core of the overall distributed computation. SmartOrch
+  provides a flexible and customisable workflow composition framework that has
+  multi-level optimisation capabilities. These features allow us to manage the
+  uncertainty that collective adaptive systems need to deal with in a principled
+  way.
+
+
+  We demonstrate the benefits of SmartOrch with simulation experiments in a ridesharing domain. Our experiments show that SmartOrch is able to respond flexibly to variation in collective human behaviour, and to adapt to observed behaviour at different levels. This is accomplished by learning how to propose and route human-based tasks, how to allocate computational resources when managing these tasks, and how to adapt the overall interaction model of the platform based on past performance. By proposing novel, solid engineering principles for these kinds of systems, SmartOrch addresses shortcomings of previous work that mostly focused on application-specific, non-adaptive solutions.
 draft: false
 featured: false
 tags:
@@ -40,9 +41,9 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: The 32nd ACM Symposium on Applied Computing (SAC’17). [CCF C; Core B]
 projects: []
-date: 2018-10-10T11:55:00.000Z
+date: 2017-10-10T11:55:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
