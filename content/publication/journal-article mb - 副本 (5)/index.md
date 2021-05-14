@@ -1,28 +1,52 @@
 ---
-title: "模板"
+title: "The Next Grand Challenges: Integrating the Internet of Things and Data
+  Science."
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - R. Ranjan
+  - O. Rana
+  - S. Nepal
+  - M. Yousif
+  - P. James
+  - Z. Wen
+  - S. Barr
+  - P. Watson
+  - P. P. Jayaraman
+  - D. Georgakopoulos
+  - M.Villari
+  - M. Fazio
+  - S. Garg
+  - R. Buyya
+  - L. Wang
+  - A. Y. Zomaya and S. Dustdar
+publication_short: IEEE Cloud Computing magazine, 2018. (SCI-IF = 4.393)
+abstract: >-
+  In the last decade, we have been transitioning from a datapoor to a data-rich
+  world with the promise of unparalleled intelligence. Such transition will
+  definitely require significant investments in every aspect in our societies
+  including social, political, economic and cultural. Much of the
+  (unprecedented) increase in data generation can be attributed
+
+  to the abundance of mobile devices and wearables, the
+
+  increase of instrumentation in every industry vertical, the
+
+  mass adoption of social networks and the digitization of
+
+  every aspect of our lives. Generically, the bulk of such
+
+  data collection falls under the Internet of Things (IoT).1–5
+
+  IoT data comes from a variety of sources that can be classified into (a) machine-based (e.g., environmental, weather, air quality, water quality, flows, traffic speeds, people
+
+  flows and GPS location) or (b) people-based (e.g., social
+
+  media, crowd sourced data collection, and simple text
+
+  messaging) providing data and situational observations
+
+  associated with events.
 draft: false
 featured: false
 tags:
@@ -40,7 +64,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: IEEE Cloud Computing magazine, 2018. (SCI-IF = 4.393)
 projects: []
 date: 2018-10-10T11:55:00.000Z
 url_slides: ""
