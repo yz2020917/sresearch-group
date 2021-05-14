@@ -1,28 +1,35 @@
 ---
-title: "模板"
+title: Fog Orchestration and Simulation for IoT Services
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - R. Yang
+  - Z. Wen
+  - D. Mckee
+  - T. Lin
+  - J. Xu and P. Garraghan
+publication_short: Book Chapter, Fog and Fogonomics Challenges and Practices of
+  Fog Computing, Networking, Strategy, and Economics, Wiley
+abstract: The Internet of Things (IoT) interconnects physical objects including
+  sensors, vehicles, and buildings into a virtual circumstance, resulting in the
+  increasing integration of Cyber-physical objects. The Fog computing paradigm
+  extends both computation and storage services in Cloud computing environment
+  to the network edge. Typically, IoT services comprise of a set of software
+  components running over different locations connected through datacenter or
+  wireless sensor networks. It is significantly important and cost-effective to
+  orchestrate and deploy a group of microservices onto Fog appliances such as
+  edge devices or Cloud servers for the formation of such IoT services. In this
+  chapter, we discuss the challenges of realizing Fog orchestration for IoT
+  services, and present a software-defined orchestration architecture and
+  simulation solutions to intelligently compose and orchestrate thousands of
+  heterogeneous Fog appliances. The resource provisioning, component placement
+  and runtime QoS control in the orchestration procedure can harness workload
+  dynamicity, network uncertainty and security demands whilst considering
+  different applications’ requirement and appliances’ capabilities. Our
+  practical experiences show that the proposed parallelized orchestrator can
+  reduce the execution time by 50% with at least 30% higher orchestration
+  quality. We believe that our solution plays an important role in the current
+  Fog ecosystem.
 draft: false
 featured: false
 tags:
@@ -40,7 +47,8 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: Book Chapter, Fog and Fogonomics Challenges and Practices of Fog
+  Computing, Networking, Strategy, and Economics, Wiley
 projects: []
 date: 2018-10-10T11:55:00.000Z
 url_slides: ""
