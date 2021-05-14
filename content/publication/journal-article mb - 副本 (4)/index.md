@@ -1,28 +1,36 @@
 ---
-title: "模板"
+title: "Emergent Failures: Rethinking Reliable Cloud Datacenters at Scale."
 publication_types:
   - "2"
 authors:
-  - Zhen Hong
-  - Chaofeng Yang
-  - Li Yu
-publication_short: "IEEE Transactions on Industrial Electronics    "
-abstract: Industrial cyber-physical systems (ICPS) are widely used to facilitate
-  accurately remote control in industrial application fields using cyberspace
-  technologies. However, it is easily suffered from internal vulnerabilities and
-  other external threats from cyberspace, e.g., the attacker can bypass the
-  intrusion detection systems (IDS) to access inner network and destroy devices,
-  due to the deployed old-fashioned hardware and software. From the view of the
-  system control level, we propose a system residuals-based fingerprinting for
-  attack detection, namely, R-print. We firstly abstract the actual water-level
-  system as a physical model. Then the measurement noise and the process noise
-  from the sensor and system operation are respectively extracted as the input
-  of model, and the output residual is synthesized into the unique fingerprint.
-  Furthermore, we also propose a data resampling strategy to focus on the
-  problem that how to fast detect the injection attack with small-value false
-  data. Finally, a small water-level control testbed was built to simulate the
-  real-scenario of the industrial water treatment process. The experimental
-  results verify the effectiveness of the proposed attack detection approach.
+  - P. Garraghan
+  - R. Yang
+  - Z. Wen
+  - A. Romanovsky
+  - J. Xu
+  - R. Buyya
+  - R. Ranjan
+publication_short: IEEE Cloud Computing magazine, 2018. (SCI-IF = 4.393)
+abstract: Since the conception of cloud computing, ensuring its ability to
+  provide highly reliable service has been of the upmost importance and
+  criticality to the business objectives of providers and their customers. This
+  has held true for every facet of the system, encompassing applications,
+  resource management, the underlying computing infrastructure, and
+  environmental cooling. Thus, the cloud-computing and dependability research
+  communities have exerted considerable effort toward enhancing the reliability
+  of system components against various software and hardware failures. However,
+  as these systems have continued to grow in scale, with heterogeneity and
+  complexity resulting in the manifestation of emergent behavior, so too have
+  their respective failures. Recent studies of production cloud datacenters
+  indicate the existence of complex failure manifestations that existing fault
+  tolerance and recovery strategies are ill-equipped to effectively handle.
+  These strategies can even be responsible for such failures. These emergent
+  failures-frequently transient and identifiable only at runtime-represent a
+  significant threat to designing reliable cloud systems. This article
+  identifies the challenges of emergent failures in cloud datacenters at scale
+  and their impact on system resource management, and discusses potential
+  directions of further study for Internet of Things integration and holistic
+  fault tolerance.
 draft: false
 featured: false
 tags:
@@ -40,7 +48,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "IEEE Transactions on Industrial Electronics    "
+publication: IEEE Cloud Computing magazine, 2018. (SCI-IF = 4.393)
 projects: []
 date: 2018-10-10T11:55:00.000Z
 url_slides: ""
