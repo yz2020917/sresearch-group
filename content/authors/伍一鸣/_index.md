@@ -1,10 +1,11 @@
 ---
+title: 伍一鸣
+role: 博士
+avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
   - 伍一鸣
-title: 伍一鸣
-role: 博士
 bio: ""
 interests:
   - 网络安全
