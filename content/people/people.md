@@ -21,7 +21,7 @@ content:
   - Researcher
   - Students
   - Master student 
-  - Studentsss
+  - Doctoral student
   - Alumni
 design:
   show_interests: false
