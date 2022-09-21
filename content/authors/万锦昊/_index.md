@@ -1,45 +1,21 @@
 ---
-organizations:
-  - name: Stanford University
-    url: ""
+title: 苏捷
+role: ""
+avatar_filename: 149454c771371177aa66adb437cbb63.png
+organizations: []
 superuser: false
 authors:
   - 吳恩達
-title: 0_模板
-role: Professor of Artificial Intelligence
 bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blank
+social: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
-user_groups: []
+user_groups:
+  - Doctoral Student
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+于英国纽卡斯尔大学攻读计算机与科学博士学位，目前为博士第四年, 主要研究方向为时间序列，信号方向的深度学习算法研究。在此之前，于英国南安普顿大学攻读数据分析研究生学位并获得Distinction Honor。
