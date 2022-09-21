@@ -31,7 +31,8 @@ education:
     - course: BS
       institution: 浙江树人学院
       year: 2012
-email: "Doctoral Student "
-user_groups: []
+email: ""
+user_groups:
+  - Doctoral Student
 ---
 于2022年加入浙江工业大学网络空间安全研究院，主要从事无人系统安全方面的研究。
