@@ -15,7 +15,7 @@ interests:
   - loT
 social:
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/haoranD
 education:
   courses: []
