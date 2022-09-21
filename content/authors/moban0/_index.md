@@ -33,6 +33,6 @@ education:
       year: 2012
 email: ""
 user_groups:
-  - Doctoral Student
+  - Doctoral student
 ---
 于2022年加入浙江工业大学网络空间安全研究院，主要从事无人系统安全方面的研究。
