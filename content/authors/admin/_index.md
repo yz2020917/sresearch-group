@@ -10,19 +10,7 @@ interests:
   - 数据分析
   - 人工智能
   - 软件开发应用
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blank
+social: []
 organizations:
   - name: Zhejiang University of Technology
     url: ""

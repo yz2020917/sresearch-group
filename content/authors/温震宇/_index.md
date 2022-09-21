@@ -10,15 +10,6 @@ interests:
   - 分布式系统
   - 计算机网络
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
   - icon: github
     icon_pack: fab
     link: http://www.zhenyu.info/

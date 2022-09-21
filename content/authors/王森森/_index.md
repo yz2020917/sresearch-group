@@ -13,19 +13,7 @@ interests:
   - 大数据云计算
   - 分布式系统
   - 计算机网络
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blank
+social: []
 education:
   courses:
     - course: 浙江工业大学
@@ -36,6 +24,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Master student
+  - Post-graduate
 ---
 本科阶段曾获得电子设计竞赛，机器人竞赛奖项及各类奖学金，参与新苗、春萌项目。

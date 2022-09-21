@@ -13,19 +13,7 @@ interests:
   - 机器学习
   - 硬件安全
   - 网络安全
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blank
+social: []
 education:
   courses:
     - course: 浙江理工大学
@@ -39,5 +27,5 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Master student
+  - Post-graduate
 ---
