@@ -19,9 +19,9 @@ content:
   - Principal Investigators
   - Faculty
   - Researcher
-  - Students
-  - Master student 
   - Doctoral student
+  - Master student 
+  - student
   - Alumni
 design:
   show_interests: false
