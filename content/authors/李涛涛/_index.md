@@ -37,6 +37,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Master student
+  - Doctoral Student
 ---
 本科阶段多次获得程序设计竞赛，电子设计设计竞赛一二等奖及各类奖学金，研究生阶段获得一次一等奖学金，目前发表专利2项，国际会议论文1篇（EI收录），目前两篇期刊论文在投。
