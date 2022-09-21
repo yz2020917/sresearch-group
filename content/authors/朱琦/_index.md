@@ -12,19 +12,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blank
+social: []
 education:
   courses:
     - course: 浙江工业大学
