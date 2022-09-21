@@ -36,6 +36,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Master student
+  - Post-graduate
 ---
 本科阶段曾获得电子设计竞赛，机器人竞赛奖项及各类奖学金，参与新苗、春萌项目。
