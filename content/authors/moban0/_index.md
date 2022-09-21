@@ -1,45 +1,37 @@
 ---
+title: 万锦昊
+role: 博士研究生
+avatar_filename: cfdf2b9c37fd2043f901324278a75e6.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: 0_模板
-role: Professor of Artificial Intelligence
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 无线传感器网络
+  - 物联网应用
+  - 无人系统安全
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
   - icon: github
     icon_pack: fab
-    link: blank
+    link: https://wanjinhao1.github.io/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: "PhD "
+      institution: 浙江工业大学
+      year: ""
+    - course: Faculty
+      institution: 浙江树人学院
+      year: 2020
+    - course: "MS "
+      institution: 常州大学
+      year: 2022
+    - course: BS
+      institution: 浙江树人学院
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: "Doctoral Student "
 user_groups: []
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+于2022年加入浙江工业大学网络空间安全研究院，主要从事无人系统安全方面的研究。
