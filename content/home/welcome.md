@@ -12,6 +12,6 @@ design:
   columns: "2"
 hero_media: page_2.jpg
 ---
-Intelligence, Security, and Privacy for Networked and Ubiquitous Systems.(ISPUN)
+Intelligence, Security, and Privacy for Networked and Ubiquitous Systems.(ISPNU)
 
-ISPUN is a research group in the Department of Electronic Information of Zhejiang University of Technology. our research contents include Internet of Things Security, Artificial Intelligence, and Distributed Computing. our team is headed by Hong Zhen and Zhenyu Wen.
+ISPNU is a research group in the Department of Electronic Information of Zhejiang University of Technology. our research contents include Internet of Things Security, Artificial Intelligence, and Distributed Computing. our team is headed by Hong Zhen and Zhenyu Wen.

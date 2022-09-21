@@ -14,19 +14,7 @@ interests:
   - 人工智能
   - 无人机安全
   - 数据挖掘
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: blank
-  - icon: twitter
-    icon_pack: fab
-    link: blank
-  - icon: google-scholar
-    icon_pack: ai
-    link: blank
-  - icon: github
-    icon_pack: fab
-    link: blankx
+social: []
 education:
   courses:
     - course: 浙江工业大学
@@ -37,6 +25,6 @@ education:
       year: ""
 email: ""
 user_groups:
-  - Master student
+  - Doctoral Student
 ---
 本科阶段多次获得程序设计竞赛，电子设计设计竞赛一二等奖及各类奖学金，研究生阶段获得一次一等奖学金，目前发表专利2项，国际会议论文1篇（EI收录），目前两篇期刊论文在投。
