@@ -1,7 +1,7 @@
 ---
 title: 伍一鸣
 role: 博士
-avatar_filename: avatar.jpg
+avatar_filename: e043467d34a4adc72fb9c426630ece6.jpg
 organizations: []
 superuser: false
 authors:
